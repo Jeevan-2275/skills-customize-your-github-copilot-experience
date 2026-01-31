@@ -27,6 +27,20 @@
       "dueDate": "2026-01-01"
     },
     {
+      "id": "intro-to-python",
+      "title": "Introduction to Python",
+      "path": "assignments/intro-to-python",
+      "dueDate": "2023-11-15",
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "rest-api-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "path": "assignments/rest-api-fastapi",
+      "dueDate": "2023-11-22",
+      "difficulty": "Intermediate"
+    },
+    {
       "id": "python-classes",
       "title": "Python Classes",
       "description": "Defining and using classes in Python",
